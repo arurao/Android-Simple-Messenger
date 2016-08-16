@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/UB%20Spring%202016/CSE%20586/PA1/Old%20Code/SimpleMessenger/SimpleMessenger/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SimpleMessenger</string>
+    <string name="hint_type">Type</string>
+</resources>
